@@ -9,8 +9,8 @@
       <br>
       <a href = "https://code423n4.com/leaderboard">CodeArena</a>
 
--  📫 How to reach me  
-  <a href = "https://twitter.com/MukeshJ_eth"> Twitter</a> 
+-  📫 How to reach me    <br>
+  <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> 
   <br>
   <a href = "www.linkedin.com/in/mukesh-jaiswal-blockchaindeveloper">LinkedIn</a> 
 
