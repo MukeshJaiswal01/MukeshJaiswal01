@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning about Bridges
 
 
-- <p> 📫 How to reach me <p>  <a href = "https://twitter.com/MukeshJ_eth"> Twitter</a>  <a href = "www.linkedin.com/in/mukesh-jaiswal-blockchaindeveloper">LinkedIn</a> 
+- <p> 📫 How to reach me <p>  <a href = "https://twitter.com/MukeshJ_eth"> Twitter</a> 
+  <a href = "www.linkedin.com/in/mukesh-jaiswal-blockchaindeveloper">LinkedIn</a> 
 
 <!---
 MukeshJaiswal01/MukeshJaiswal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
