@@ -4,8 +4,9 @@
 
 - 🌱 I’m currently learning about Bridges
 
-
-- <p> 📫 How to reach me <p>  <a href = "https://twitter.com/MukeshJ_eth"> Twitter</a> 
+- <p> 📫 How to reach me <p>  
+  <a href = "https://twitter.com/MukeshJ_eth"> Twitter</a> 
+  <br>
   <a href = "www.linkedin.com/in/mukesh-jaiswal-blockchaindeveloper">LinkedIn</a> 
 
 <!---
