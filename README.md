@@ -2,13 +2,14 @@
 
 - 👀 I’m interested in Blockchain security
 
+- 🌱 I’m currently learning about Bridges
+
 - 👷 Contribution 
        <br>
       <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
       <br>
       <a href = "https://code423n4.com/leaderboard">CodeArena</a>
 
-- 🌱 I’m currently learning about Bridges
 
 - <p> 📫 How to reach me <p>  
   <a href = "https://twitter.com/MukeshJ_eth"> Twitter</a> 
