@@ -11,7 +11,6 @@
 
 -  📫 How to reach me    <br>
   <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> 
- 
   <a href = "www.linkedin.com/in/mukesh-jaiswal-blockchaindeveloper">LinkedIn</a> 
 
 <!---
