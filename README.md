@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Blockchain security
 
-- 🌱 I’m currently learning about Bridges
+- 🌱 I’m currently learning about Blockchain Bridges
 
 - 👷 Contribution <br>
       <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
