@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Blockchain security
 
-- 🌱 I’m currently learning Rust & Blockchain Bridges
+- 🌱 I’m currently learning Rust & exploring Blockchain bridges
 
 - 👷 Contribution <br>
       <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
