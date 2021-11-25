@@ -5,9 +5,9 @@
 - 🌱 I’m currently learning Rust & exploring Blockchain bridges
 
 - 👷 Contribution <br>
-      <a href = "#">CodeArena</a>
-      <br>
-      <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
+     
+   
+    <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
      
 
 -  📫 How to reach me    <br>
