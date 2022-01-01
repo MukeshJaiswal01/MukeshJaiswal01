@@ -19,6 +19,7 @@
 -  📫 How to reach me    <br>
   <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> <br>
   <a href = "https://www.linkedin.com/in/mukesh-jaiswal-blockchaindeveloper/">LinkedIn</a> 
+  <a href = "https://mail.google.com/mail/u/0/"> Email</a>
 
 <!---
 MukeshJaiswal01/MukeshJaiswal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
