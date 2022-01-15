@@ -5,15 +5,15 @@
 - 🌱 Exploring Blockchain 🌉 bridges
 
 - 👷 Contribution <br> <br>
-  Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>
+  Currently working @<a href = "https://sherlock.xyz/"> SherLock</a> October 2021 - Present
    <br>
-   Security Researcher @ <a href = "https://spearbit.com/"> SpearBit </a> 
+   Security Researcher @ <a href = "https://spearbit.com/"> SpearBit </a>  December 2021 - Present
    <br>
-   Warden @ <a href = "https://code4rena.com/leaderboard" >CodeArena</a>
+   Warden @ <a href = "https://code4rena.com/leaderboard" >CodeArena</a> May 2021 - Present
    <br>
-   Whitehat Fellowoship @ <a href = "https://immunefi.com/">Immunefi</a>
+   Whitehat Fellowoship @ <a href = "https://immunefi.com/">Immunefi</a> june 2021 - september 2021
    <br>
-   Kernel Fellowship ☘️ @ <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
+   Kernel Fellowship ☘️ @ <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a> jan 2021 - March 2021
   
    
  
