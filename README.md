@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Rust & exploring Blockchain bridges
 
 - 👷 Contribution <br>
-   <a href = "https://sherlock.xyz/"> SherLock</a>
+  Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>
    <br>
    <a href = "https://code4rena.com/leaderboard" >CodeArena</a>
    <br>
