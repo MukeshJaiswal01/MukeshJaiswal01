@@ -6,13 +6,13 @@
 
 - 👷 Contribution <br> <br>
 
-| Designaion  | Firm  | Timeline  |
+| Designation  | Firm  | Timeline  |
 |---|---|---|
-| Watson  | @<a href = "https://sherlock.xyz/">  | October 2021 - Present   |
-| Security Researcher  | @ <a href = "https://spearbit.com/"> SpearBit </a>  |  December 2021 - Present  |
-| Warden  | @ <a href = "https://code4rena.com/leaderboard" >CodeArena</a>   |  May 2021 - Present  |
-|  Whitehat Fellowoship   |  @ <a href = "https://immunefi.com/">Immunefi</a>      |    june 2021 - september 2021  |
-|  Kernel Fellowship  |  @ <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a> |jan 2021 - March 2021  |
+| Watson  | <a href = "https://sherlock.xyz/"> SherLock</a>  | October 2021 - Present   |
+| Security Researcher  |  <a href = "https://spearbit.com/"> SpearBit </a>  |  December 2021 - Present  |
+| Warden  |  <a href = "https://code4rena.com/leaderboard" >CodeArena</a>   |  May 2021 - Present  |
+|  Whitehat Fellowoship   |   <a href = "https://immunefi.com/">Immunefi</a>      |    june 2021 - september 2021  |
+|  Kernel Fellowship  |   <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a> |jan 2021 - March 2021  |
 
 <br><br>
   Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>           October 2021 - Present
