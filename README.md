@@ -11,8 +11,9 @@
    <br>
    Security Researcher @ <a href = "https://spearbit.com/"> SpearBit </a> 
    <br>
-   Kernel Fellow ☘️ <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
+   Kernel Fellow ☘️ @ <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
    <br>
+   Whitehat Fellowoship @ <a href = "https://immunefi.com/">Immunefi</a>
    
  
      
