@@ -12,6 +12,7 @@
 |  |  |  |
 |  |  |  |
 |  |  |  |
+<br><br>
   Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>           October 2021 - Present
    <br>
    Security Researcher @ <a href = "https://spearbit.com/"> SpearBit </a>      December 2021 - Present
