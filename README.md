@@ -4,17 +4,16 @@
 
 - 🌱 I’m currently learning Rust & exploring Blockchain bridges
 
-- 👷 Contribution <br>
+- 👷 Contribution <br> <br>
   Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>
    <br>
   Warden @ <a href = "https://code4rena.com/leaderboard" >CodeArena</a>
    <br>
    Security Researcher @ <a href = "https://spearbit.com/"> SpearBit </a> 
    <br>
-   <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
+   Kernel Fellow ☘️ <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
    <br>
-   <a href = "https://spearbit.com/"> SpearBit </a> 
-   <br>
+   
  
      
 
