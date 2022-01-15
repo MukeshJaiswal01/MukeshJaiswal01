@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Blockchain security
 
-- 🌱 I’m currently learning Rust & exploring Blockchain bridges
+- 🌱 Exploring Blockchain 🌉 bridges
 
 - 👷 Contribution <br> <br>
   Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>
