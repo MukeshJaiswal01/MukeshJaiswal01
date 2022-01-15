@@ -7,7 +7,7 @@
 - 👷 Contribution <br> <br>
 
 | Designation | Firm | Timeline  |
-|--watson-|--@<a href = "https://sherlock.xyz/"> SherLock</a>  -|-   October 2021 - Present--|
+|watson|<a href = "https://sherlock.xyz/"> SherLock</a>|October 2021 - Present|
 |  |  |  |
 |  |  |  |
 |  |  |  |
