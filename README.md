@@ -14,7 +14,7 @@
 |  Whitehat Fellowoship   |   <a href = "https://immunefi.com/">Immunefi</a>      |    Jun 2021 - Sep 2021  |
 |  Kernel Fellowship  |   <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a> |Jan 2021 - Mar 2021  |
 
-<br><br>
+<br>
   
    
  
