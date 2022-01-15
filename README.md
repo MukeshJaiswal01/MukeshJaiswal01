@@ -7,7 +7,9 @@
 - 👷 Contribution <br>
   Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>
    <br>
-   <a href = "https://code4rena.com/leaderboard" >CodeArena</a>
+  Warden @ <a href = "https://code4rena.com/leaderboard" >CodeArena</a>
+   <br>
+   Security Researcher @ <a href = "https://spearbit.com/"> SpearBit </a> 
    <br>
    <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
    <br>
