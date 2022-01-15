@@ -7,10 +7,10 @@
 - 👷 Contribution <br> <br>
   Currently working @<a href = "https://sherlock.xyz/"> SherLock</a>
    <br>
-  Warden @ <a href = "https://code4rena.com/leaderboard" >CodeArena</a>
-   <br>
    Security Researcher @ <a href = "https://spearbit.com/"> SpearBit </a> 
-    <br>
+   <br>
+   Warden @ <a href = "https://code4rena.com/leaderboard" >CodeArena</a>
+   <br>
    Whitehat Fellowoship @ <a href = "https://immunefi.com/">Immunefi</a>
    <br>
    Kernel Fellowship ☘️ @ <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a>
