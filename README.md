@@ -6,7 +6,7 @@
 
 - 👷 Contribution <br> <br>
 
-| Designation  | Firm  | Timeline  |
+|   | Firm  | Timeline  |
 |---|---|---|
 | Watson  | <a href = "https://www.sherlock.xyz/about"> SherLock</a>  | Oct 2021 - Present   |
 | Security Researcher  |  <a href = "https://spearbit.com/"> SpearBit </a>  |  Dec 2021 - Present  |
