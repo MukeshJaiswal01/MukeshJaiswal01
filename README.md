@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Blockchain security
 
-- 🌱 Exploring Blockchain 🌉 bridges
+- 🌱 Exploring Blockchain 🌉 bridges and learning 🦀
 
 - 👷 Contribution <br> <br>
 
