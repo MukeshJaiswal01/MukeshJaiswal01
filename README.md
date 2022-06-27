@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mukesh Jaiswal  ![views](https://komarev.com/ghpvc/?username=MukeshJaiswal01&color=red)
+- 👋 Hi, I’m Mukesh Jaiswal  ![👁‍🗨](https://komarev.com/ghpvc/?username=MukeshJaiswal01&color=red)
 
 - 👀 I’m interested in Blockchain security
 
