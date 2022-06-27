@@ -4,7 +4,7 @@
 
 - 🌱 Exploring Blockchain 🌉 bridges and learning 🦀
 
-- 👷 Contribution <br> <br>
+- 👷 Contribution <br> 
 - ![Profile views](https://komarev.com/ghpvc/?MukeshJaiswal01)
 
 |   | DAO/Protocol  | Timestamp  |
