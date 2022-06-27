@@ -5,7 +5,7 @@
 - 🌱 Exploring Blockchain 🌉 bridges and learning 🦀
 
 - 👷 Contribution <br> 
-- 👁‍🗨 ![Profile views](https://komarev.com/ghpvc/?username=MukeshJaiswal01&color=red)
+
 
 |   | DAO/Protocol  | Timestamp  |
 |---|---|---|
@@ -16,6 +16,8 @@
 |  Kernel Fellow  |   <a href = "https://gitcoin.co/mukeshjaiswal01/portfolio">Gitcoin </a> |Jan 2021 - Mar 2021  |
 
 <br>
+
+- 👁‍🗨 ![Profile views](https://komarev.com/ghpvc/?username=MukeshJaiswal01&color=red)
   
    
  
