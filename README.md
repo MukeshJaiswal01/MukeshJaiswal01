@@ -9,7 +9,7 @@
 
 |   | DAO/Protocol  | Timestamp  |
 |---|---|---|
-| Watson  | <a href = "https://www.sherlock.xyz/about"> SherLock</a>  | Oct 2021 - Aug 2022  |
+| Security Researcher  | <a href = "https://www.sherlock.xyz/about"> SherLock</a>  | Oct 2021 - Aug 2022  |
 | Security Researcher  |  <a href = "https://spearbit.com/"> SpearBit </a>  |  Dec 2021 - Present  |
 | Warden  |  <a href = "https://code4rena.com" >CodeArena</a>   |  May 2021 - Present  | 
 |  Whitehat Fellow   |   <a href = "https://immunefi.com/">Immunefi</a>      |    Jun 2021 - Sep 2021  |
