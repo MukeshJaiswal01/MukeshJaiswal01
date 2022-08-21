@@ -7,7 +7,7 @@
 - 👷 Contribution <br> 
 
 
-|   | DAO/Protocol  | Timestamp  |
+| Role  | DAO/Protocol  | Timestamp  |
 |---|---|---|
 | Security Researcher  | <a href = "https://www.sherlock.xyz/about"> SherLock</a>  | Oct 2021 - Aug 2022  |
 | Security Researcher  |  <a href = "https://spearbit.com/"> SpearBit </a>  |  Dec 2021 - Present  |
