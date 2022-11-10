@@ -16,9 +16,6 @@
 <br>
 
 
-  Bug Bounty 
-  <br>
-  Top 15 in CodeArena ranking 2021
   
    
  
