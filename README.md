@@ -2,7 +2,7 @@
 
 - 👀  Blockchain Security Researcher
 
-- 🌱 Exploring Blockchain 🌉 bridges and learning 🦀
+- 🌱 Exploring ZKP and learning 🦀
 
 - 👷 Contribution <br> 
 
