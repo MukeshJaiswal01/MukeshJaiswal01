@@ -2,7 +2,7 @@
 
 - 👀  Blockchain Security Researcher
 
-- 🌱 Exploring ZKP and learning Go
+- 🌱 Exploring ZKP and learning Golang
 
 - 👷 Contribution <br> 
 
