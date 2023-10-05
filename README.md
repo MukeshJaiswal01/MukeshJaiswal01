@@ -23,7 +23,7 @@
 
 -  📫 How to reach me    <br><br>
   <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> <br>
-  <a href = "www.linkedin.com/in/mukesh-jaiswal-security-researcher/">LinkedIn</a> <br>
+  <a href = "www.linkedin.com/in/mukesh-jaiswal-security-researcher">LinkedIn</a> <br>
   Email: jaiswalmukesh443@gmail.com
 
 <!---
