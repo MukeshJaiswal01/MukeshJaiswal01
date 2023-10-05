@@ -23,7 +23,7 @@
 
 -  📫 How to reach me    <br><br>
   <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> <br>
-  <a href = "https://www.linkedin.com/in/mukesh-jaiswal-blockchaindeveloper/">LinkedIn</a> <br>
+  <a href = "www.linkedin.com/in/mukesh-jaiswal-security-researcher/">LinkedIn</a> <br>
   <a href = "https://mail.google.com/mail/u/0/"> Email</a>
 
 <!---
