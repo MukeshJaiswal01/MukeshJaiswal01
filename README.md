@@ -3,7 +3,7 @@
 - 👀  Blockchain Security Researcher
 
 - 🌱 Exploring ZKP and learning Golang
-- < a href= "https://tryhackme.com/badge/514886">THM </a>
+- <a href= "https://tryhackme.com/badge/514886" >THM </a>
 - 👷 Contribution <br> 
 
 
