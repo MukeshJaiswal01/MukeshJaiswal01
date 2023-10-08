@@ -3,6 +3,7 @@
 - 👀  Blockchain Security Researcher
 
 - 🌱 Exploring ZKP and learning Golang
+- <img src="https://tryhackme-badges.s3.amazonaws.com/JMukesh.png" alt="TryHackMe">
 
 - 👷 Contribution <br> 
 
