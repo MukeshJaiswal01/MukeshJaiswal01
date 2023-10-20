@@ -15,7 +15,7 @@
 
 <br>
 
--Security PortFolio <br>
+- Security PortFolio <br>
  
    <a href ="https://leastauthority.com/wp-content/uploads/2023/09/">Web3MQ Snap Audit </a>  <br>
    <a href ="https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> FIlfi smart contracts (Filecoin Network) </a> <br>
