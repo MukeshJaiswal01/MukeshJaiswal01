@@ -13,14 +13,13 @@
 |  Whitehat Fellow   | <a href = "https://immunefi.com/">Immunefi</a>            |    Jun 2021 - Sep 2021  |
 |  Kernel Fellow     | <a href = "https://opensea.io/assets/matic/0x1c39d4c8ad7ce5206355d43e343f5136ba5ca50f/60818090201803840">Gitcoin </a> |Jan 2021 - Mar 2021  |
 
-<br><br>
-
+<br>
 
 Security PortFolio <br>
  
    <a href ="https://leastauthority.com/wp-content/uploads/2023/09/">Web3MQ Snap Audit </a>  <br>
-   <a href ="https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> FIlfi smart contracts (Filecoin Network) </a>
-
+   <a href ="https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> FIlfi smart contracts (Filecoin Network) </a> <br>
+   <a href ="https://leastauthority.com/static/publications/230316_Zest%20Protocol_Trust%20Machines_Updated_Final_Security_Audit_Report_march_2023.pdf"> Zest Protcol (Stack blockchain Network) </a>
 <br>
 
 
