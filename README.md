@@ -15,7 +15,7 @@
 
 Security PortFolio <br>
  
-   * <a href =" https://leastauthority.com/wp-content/uploads/2023/09/" >Web3MQ Snap Audit </a> -  client interface that allows its users to interact with the Web3MQ social messaging  network
+   * <a href ="https://leastauthority.com/wp-content/uploads/2023/09/">Web3MQ Snap Audit </a> -  client interface that allows its users to interact with the Web3MQ social messaging  network
 
 <br>
 
