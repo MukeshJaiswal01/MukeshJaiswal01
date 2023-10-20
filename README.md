@@ -13,9 +13,14 @@
 |  Whitehat Fellow   | <a href = "https://immunefi.com/">Immunefi</a>            |    Jun 2021 - Sep 2021  |
 |  Kernel Fellow     | <a href = "https://opensea.io/assets/matic/0x1c39d4c8ad7ce5206355d43e343f5136ba5ca50f/60818090201803840">Gitcoin </a> |Jan 2021 - Mar 2021  |
 
+<br><br>
+
+
 Security PortFolio <br>
  
-   <a href ="https://leastauthority.com/wp-content/uploads/2023/09/">Web3MQ Snap Audit </a> -  client interface that allows its users to interact with the Web3MQ social messaging  network
+   <a href ="https://leastauthority.com/wp-content/uploads/2023/09/">Web3MQ Snap Audit </a> -  client interface that allows its users to interact with the Web3MQ social messaging  network <br>
+   <a href ="https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf">FIlfi smart contracts (Filecoin Network) - Security audit of the FilFi smart contracts, which manage the storage node joint construction programs in the Filecoin network. The implementation can be described as a co-mining
+product that achieves its goal through different stages – the fundraising period, encapsulation progress, and distribution of rewards
 
 <br>
 
