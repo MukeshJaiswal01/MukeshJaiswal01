@@ -9,7 +9,7 @@
 
 | Role  | DAO/Protocol  | Timestamp  |
 |---|---|---|
-| Security Researcher| <a href = "https://leastauthority.com"> Least Authority </a>     | Oct 20222 - Nov 2023    |
+| Security Researcher| <a href = "https://leastauthority.com"> Least Authority </a>     | Oct 2022 - Nov 2023    |
 | Security Researcher| <a href = "https://www.sherlock.xyz/about"> SherLock</a>         | Oct 2021 - Aug 2022     |
 |  Whitehat Fellow   | <a href = "https://immunefi.com/">Immunefi</a>                   |    Jun 2021 - Sep 2021  |
 |  Kernel Fellow     | <a href = "https://opensea.io/assets/matic/0x1c39d4c8ad7ce5206355d43e343f5136ba5ca50f/60818090201803840">Gitcoin </a> |Jan 2021 - Mar 2021  |
