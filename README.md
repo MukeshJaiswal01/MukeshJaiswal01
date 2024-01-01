@@ -19,7 +19,7 @@
  
 ### Security Portfolio
 
- | EVM compatible chain | Audit Report | 
+ | Ethereum | Audit Report | 
  |---|---|
  | CodeArena Audit | <a href = "https://code4rena.com/@JMukesh"> Report </a>   | 
  |  POAP |<a href = "https://cantina.xyz/portfolio/784bde12-36c6-4469-8dfa-50b1ae830f9d"> Report </a>    |
@@ -36,10 +36,12 @@
   | Keep Network |<a href = "https://leastauthority.com/wp-content/uploads/2023/08/Thesis_Keep_Network_Solana_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a> | 
 
 
+   <br>
   |Stack Network | Audit Report | 
   |---|---|
   | Zest Protocol |<a href = "https://leastauthority.com/static/publications/230316_Zest%20Protocol_Trust%20Machines_Updated_Final_Security_Audit_Report_march_2023.pdf"> Report </a> | 
 
+  <br>
   |Filecoin Network | Audit Report | 
   |---|---|
   | Filfi |<a href = "https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a> | 
@@ -48,7 +50,7 @@
 
    
  
-     
+   <br> 
 
 -  📫 How to reach me    <br><br>
   <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> <br>
