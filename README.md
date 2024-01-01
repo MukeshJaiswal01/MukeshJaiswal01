@@ -46,7 +46,7 @@
   |---|---|
   | Filfi |<a href = "https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a> | 
 
-   <br> <br>
+
    
   |Metamask snap | Audit Report | 
   |---|---|
@@ -56,8 +56,7 @@
 
    
  
-   <br> 
-
+   <br> <br>
 -  📫 How to reach me    <br><br>
   <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> <br>
   Email: jaiswalmukesh443@gmail.com
