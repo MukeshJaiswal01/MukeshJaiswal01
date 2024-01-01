@@ -23,7 +23,7 @@
  |---|---|
  | CodeArena Audit | <a href = "https://code4rena.com/@JMukesh"> Report </a>   | 
  | Spearbit - POAP |<a href = "https://cantina.xyz/portfolio/784bde12-36c6-4469-8dfa-50b1ae830f9d"> Report </a>    |
- |          - Locke Protocol | <a href = "https://cantina.xyz/portfolio/da4ec996-9e8f-4beb-8fe0-32e1c87e4ddb"> Report </a>  | 
+ | Spearbit - Locke Protocol | <a href = "https://cantina.xyz/portfolio/da4ec996-9e8f-4beb-8fe0-32e1c87e4ddb"> Report </a>  | 
 
    
  
