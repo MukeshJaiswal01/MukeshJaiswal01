@@ -4,7 +4,7 @@
 
 - 🌱 Exploring ZKP and learning Golang
 
-- 👷 Contribution <br> 
+- 👷 Experience <br> 
 
 
 | Role  | DAO/Protocol  | Timestamp  |
@@ -17,7 +17,7 @@
 <br>
 
  
-### Security Portfolio
+## Security Portfolio
 
  | Ethereum | Audit Report | 
  |---|---|
