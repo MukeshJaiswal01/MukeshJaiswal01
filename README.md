@@ -19,7 +19,7 @@
  
 ### Security Portfolio
 
- | Protocol | Report | 
+ | Protocol | Audit Report | 
  |---|---|
  | CodeArena Audit | <a href = "https://code4rena.com/@JMukesh"> Report </a>   | 
  | Protocol | Report | Timestamp  |
