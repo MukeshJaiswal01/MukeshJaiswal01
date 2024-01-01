@@ -29,6 +29,8 @@
  |Cube3 | <a href = "https://leastauthority.com/wp-content/uploads/2023/11/Cube3_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a>  | 
  | Neokingdom | <a href = "https://leastauthority.com/wp-content/uploads/2023/10/NEOkingdom_DAO_Smart_Contracts_Final_Audit_Report_Updated.pdf"> Report </a> | 
  | Axelar Network | <a href = "https://github.com/axelarnetwork/audits/blob/main/audits/2023-10%20Least%20Authority.pdf"> Report </a> | 
+ | Datalake | <a href = "https://leastauthority.com/static/publications/221222_Data_Lake_Consents_Smart_Contracts_Final_Audit_Report.pdf"> Report </a> | 
+ | Octant smart contracts | <a href = "https://leastauthority.com/wp-content/uploads/2023/07/Golem_Foundation_Octant_Smart_Contracts_3rd_Review_Final_Audit_Report.pdf"> Report </a> | 
 
 
   |Solana Network| Audit Report | 
