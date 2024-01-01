@@ -26,9 +26,9 @@
  | Locke Protocol | <a href = "https://cantina.xyz/portfolio/da4ec996-9e8f-4beb-8fe0-32e1c87e4ddb"> Report </a>  | 
  |  Tempus | <a href = "https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.02.09%20-%20Final%20-%20Tempus%20Audit%20Report.pdf"> Report </a>  | 
  |  Lyra | <a href = "https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.06.27%20-%20Final%20-%20Lyra%20Audit%20Report.pdf"> Report </a>  | 
- | Protocol | Audit Report | 
- | Protocol | Audit Report | 
- | Protocol | Audit Report | 
+ |Cube3 | <a href = "https://leastauthority.com/wp-content/uploads/2023/11/Cube3_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a>  | 
+ | Neokingdom | <a href = "https://leastauthority.com/wp-content/uploads/2023/10/NEOkingdom_DAO_Smart_Contracts_Final_Audit_Report_Updated.pdf"> Report </a> | 
+ | Keep Network |<a href = "https://leastauthority.com/wp-content/uploads/2023/08/Thesis_Keep_Network_Solana_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a> | 
  | Protocol | Audit Report | 
   
 
