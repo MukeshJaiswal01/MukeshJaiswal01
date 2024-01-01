@@ -37,11 +37,13 @@
 
 
    <br>
+   
   |Stack Network | Audit Report | 
   |---|---|
   | Zest Protocol |<a href = "https://leastauthority.com/static/publications/230316_Zest%20Protocol_Trust%20Machines_Updated_Final_Security_Audit_Report_march_2023.pdf"> Report </a> | 
 
   <br>
+  
   |Filecoin Network | Audit Report | 
   |---|---|
   | Filfi |<a href = "https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a> | 
