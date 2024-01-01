@@ -25,7 +25,7 @@
  |  POAP |<a href = "https://cantina.xyz/portfolio/784bde12-36c6-4469-8dfa-50b1ae830f9d"> Report </a>    |
  | Locke Protocol | <a href = "https://cantina.xyz/portfolio/da4ec996-9e8f-4beb-8fe0-32e1c87e4ddb"> Report </a>  | 
  |  Tempus | <a href = "https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.02.09%20-%20Final%20-%20Tempus%20Audit%20Report.pdf"> Report </a>  | 
- | Protocol | Audit Report | 
+ |  Lyra | <a href = "https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.06.27%20-%20Final%20-%20Lyra%20Audit%20Report.pdf"> Report </a>  | 
  | Protocol | Audit Report | 
  | Protocol | Audit Report | 
  | Protocol | Audit Report | 
