@@ -28,7 +28,7 @@
  |  Lyra | <a href = "https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.06.27%20-%20Final%20-%20Lyra%20Audit%20Report.pdf"> Report </a>  | 
  |Cube3 | <a href = "https://leastauthority.com/wp-content/uploads/2023/11/Cube3_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a>  | 
  | Neokingdom | <a href = "https://leastauthority.com/wp-content/uploads/2023/10/NEOkingdom_DAO_Smart_Contracts_Final_Audit_Report_Updated.pdf"> Report </a> | 
-
+ | Axelar Network | <a href = "https://github.com/axelarnetwork/audits/blob/main/audits/2023-10%20Least%20Authority.pdf"> Report </a> | 
  <br>
 
   |Solana Network| Audit Report | 
@@ -47,6 +47,12 @@
   |Filecoin Network | Audit Report | 
   |---|---|
   | Filfi |<a href = "https://leastauthority.com/wp-content/uploads/2023/10/FilFi_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf"> Report </a> | 
+
+   <br>
+   
+  |Metamask snap | Audit Report | 
+  |---|---|
+  | WEB3MQ |<a href = "https://leastauthority.com/wp-content/uploads/2023/09/Generative_Labs_Web3MQ_Snap_Final_Audit_Report_Least_Authority.pdf"> Report </a> | 
 
   
 
