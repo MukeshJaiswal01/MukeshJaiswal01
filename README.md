@@ -21,7 +21,7 @@
 
  | Protocol | Report | Timestamp  |
  |---|---|---|
- | Protocol | Report | Timestamp  |
+ | CodeArena Audit | <a href = "https://code4rena.com/@JMukesh"></a>   | Oct 2022 |
  | Protocol | Report | Timestamp  |
  | Protocol | Report | Timestamp  |
 
