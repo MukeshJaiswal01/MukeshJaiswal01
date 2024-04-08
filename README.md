@@ -51,6 +51,10 @@
  | Datalake | <a href = "https://leastauthority.com/static/publications/221222_Data_Lake_Consents_Smart_Contracts_Final_Audit_Report.pdf"> Report </a> | 
  | Octant smart contracts | <a href = "https://leastauthority.com/wp-content/uploads/2023/07/Golem_Foundation_Octant_Smart_Contracts_3rd_Review_Final_Audit_Report.pdf"> Report </a> | 
 
+  |Avalanche Network| Audit Report | 
+  |---|---|
+  | Teleporter |<a href = "https://github.com/ava-labs/teleporter/blob/main/audits/Bridge%20Smart%20Contracts%20Audit%20Report%20(July%207th%202023)%20-%20Least%20Authority%20.pdf"> Report </a> | 
+
 
   |Solana Network| Audit Report | 
   |---|---|
