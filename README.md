@@ -70,7 +70,7 @@
  
    <br> <br>
 -  📫 How to reach me    <br><br>
-  <a href = "https://twitter.com/MukeshJ_eth">Twitter</a> <br>
+  Twitter: <a href = "https://twitter.com/MukeshJ_eth">@MukeshJ_eth</a> <br>
   Email: jaiswalmukesh443@gmail.com
 
 <!---
