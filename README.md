@@ -22,7 +22,7 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 |[Keep Network](https://keep.network/)| Solana smart contracts |September 2023| [:page_facing_up:](audits/Thesis_Keep_Network_Solana_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf)| Smart Contracts | Rust |
 |[Generative Labs](https://www.generativelabs.co/) |Web3MQ MetaMask Snap Implementation | September 2023 | [:page_facing_up:](audits/Generative_Labs_Web3MQ_Snap_Final_Audit_Report_Least_Authority.pdf)|Snap|Javascript|
 |[Golem Foundation](https://golem.foundation/projects)| Octant smart contracts |July 2023|[:page_facing_up:](audits/Golem_Foundation_Octant_Smart_Contracts_3rd_Review_Final_Audit_Report.pdf)|Smart Contracts | Solidity |
-|[Ava Labs](avalabs.org) | Teleporter Smart Contracts |July 2023 |[:page_facing_up:](audits/Ava_Labs_Bridge_Smart_Contracts_Final_Audit_Report.pdf)|Smart Contracts | Solidity  |
+|[Ava Labs](avalabs.org) | Teleporter Smart Contracts |July 2023 |[:page_facing_up:](audits/Ava_Labs_Bridge_Smart_Contracts_Final_Audit_Report.pdf)|Smart Contracts | Solidity / Go  |
 [Zest Protocol](https://www.zestprotocol.com/) | Zest Protocol smart contracts |March 2023|[:page_facing_up:](audits/230316_Zest_Protocol_Trust_Machines_Updated_Final_Security_Audit_Report.pdf)| Smart Contracts|Clarity |
 |[Data Lake](https://data-lake.co/)| Token Vesting smart contracts |December 2022 | [:page_facing_up:](audits/LeastAuthority_Data_Lake_Token_Vesting_Smart_Contracts_Final_Audit_Report.pdf)|Smart Contracts | Solidity |
 |[Data Lake](https://data-lake.co/)| Consent smart contracts |December 2022| [:page_facing_up:](audits/221222_Data_Lake_Consents_Smart_Contracts_Final_Audit_Report.pdf)|Smart Contracts | Solidity |
