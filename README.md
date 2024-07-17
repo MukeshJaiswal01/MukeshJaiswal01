@@ -42,14 +42,7 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 | **DeFi Protocols** | 
 | **DAOs**     | 
 
-| Languages           | 
-| ------------------- | 
-| **Solidity/EVM**    | 
-| **Javascript** | 
-| **Typescript** | 
-| **Clarity**     | 
-| **Rust**     | 
-| **Vyper**     | 
+
 
 ## Competitive Audit's
 
