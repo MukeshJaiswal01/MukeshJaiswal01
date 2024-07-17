@@ -56,7 +56,7 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 ## Competitive Audit's
 
 | Platform | Profile      | Rank |
-| ------- | ------------- | 
+| ------- | ------------- | -----|
 |  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh)  |  89  |   
 
 
