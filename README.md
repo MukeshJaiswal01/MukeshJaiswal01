@@ -57,7 +57,7 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 
 | Platform | Profile      |
 | ------- | ------------- | 
-|  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh))   |       
+|  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh)  |       
 
 
 
