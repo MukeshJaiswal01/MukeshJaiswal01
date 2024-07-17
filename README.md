@@ -56,24 +56,3 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 
 
 
-## Publications
-
-Soon...
-
-## Bug Bounties
-
-| Project | Vulnerability | Severity | Platform | Report |
-| ------- | ------------- | -------- | -------- | ------ |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Critical |          |        |
-| Soon... |               | Low      |          |        |
-
-## Certifications
-
-| Certification                                                  |                                                                                                                                                                                                                                                                |
-| -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-## Keywords
-
-#audit #auditor
