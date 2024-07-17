@@ -53,6 +53,9 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 | **Rust**     | 
 | **Vyper**     | 
 
+## competitive audit
+
+https://code4rena.com/@JMukesh
 
 
 
