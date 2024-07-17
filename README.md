@@ -31,8 +31,11 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 |[Lock Protocol](https://twitter.com/lockeprotocol)| Locke Smart Contracts| February 2022|[:page_facing_up:](https://cantina.xyz/portfolio/da4ec996-9e8f-4beb-8fe0-32e1c87e4ddb) |	 Smart Contracts| Solidity |
 |[Tempus finance ](https://tempus.finance/)|	Tempus Smart Contracts| February 2022	|[:page_facing_up:](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.02.09%20-%20Final%20-%20Tempus%20Audit%20Report.pdf) |	 Smart Contracts| Solidity |
 
+## Competitive Audit's
 
-
+| Platform | Profile      | Rank |
+| ------- | ------------- | -----|
+|  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh)  |  89  |  
 
 
 ## Expertise
@@ -53,11 +56,7 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 | **Rust**     | 
 | **Vyper**     | 
 
-## Competitive Audit's
-
-| Platform | Profile      | Rank |
-| ------- | ------------- | -----|
-|  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh)  |  89  |   
+ 
 
 
 
