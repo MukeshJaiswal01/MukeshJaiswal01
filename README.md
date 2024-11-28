@@ -8,8 +8,8 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
-|[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|Private |	 Smart Contracts| Vyper |
-|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| Private |	 Smart Contracts| Clarity |
+|[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Vyper |
+|[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
 |[Diva Staking](https://divastaking.com/)	|Diva Smart Contracts	|April-May, 2024|	Private	| Smart Contracts | Solidity |
 |[Zest Protocol](https://www.zestprotocol.com/)	|Zest Protocol Smart Contracts	| April-May, 2024|	[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240509_Thesis_Defense-Zest_Protocol_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Clarity|
 |[Threshold Network](https://threshold.network/)|	tBTC Base Smart Contracts	| March 2024	| [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240411_Thesis_Defense-Threshold_tBTC_Base_Smart_Contracts_Security_Audit_Report.pdf)	|  Smart Contracts | Solidity |
