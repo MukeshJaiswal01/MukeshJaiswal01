@@ -41,7 +41,7 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 | **Clarity Smart Contracts** | 
 | **DeFi Protocols** | 
 | **DAOs**     | 
-| **Metamask Snaps Implementations** |
+| **Metamask Snaps Implementation** |
 
 | Languages           | 
 | ------------------- | 
