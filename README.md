@@ -51,6 +51,7 @@ Currently, I am a Security Auditor and Engineer and one of the core team members
 | **Clarity**     | 
 | **Rust**     | 
 | **Vyper**     | 
+| **Go**     | 
 
 ## Competitive Audit's
 
