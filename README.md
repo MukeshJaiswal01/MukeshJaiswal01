@@ -11,8 +11,7 @@ Currently, I am a Senior Security Auditor and Engineer at Thesis Inc, Previously
 | [Midl Execution Layer](https://midl.xyz/)	|Midl Runes Indexation	|September 2025	|[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/250917_Defense_by_Thesis-Midl_Runes_Indexation_Final_Security_Audit_Report.pdf) |	BTC Indexer  | Rust |
 | [Mezo](https://www.mezo.org/)	|MezoBridge Smart Contract	|September 2025	|[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/250910_Defense_by_Thesis-MezoBridge_Smart_Contract_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
 |[Templar Protocol](https://www.templarfi.org)	|Templar Smart Contracts	|April-July, 2025|	[:page_facing_up:](https://github.com/Templar-Protocol/contracts/tree/dev/audits/2025-07-01/thesis_defense)	| Smart Contracts | Rust |
-| [NEAR Satoshi Protocol](https://www.ref.finance/)	|NEAR Satoshi Protocol Smart Contracts	|November 2024	|Private |	 Smart Contracts | Rust|
-
+|[NEAR Satoshi Protocol](https://www.ref.finance/)	|NEAR Satoshi Protocol Smart Contracts	|November 2024	|Private |	 Smart Contracts | Rust|
 |[Velar Labs](https://www.velar.co/)|	Vyper Smart Contracts| 	June 2024	|[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Vyper |
 |[Velar Labs](https://www.velar.co/)	|Clarity Smart Contracts	|May 2024	| [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf) |	 Smart Contracts| Clarity |
 |[Diva Staking](https://divastaking.com/)	|Diva Smart Contracts	|April-May, 2024|	Private	| Smart Contracts | Solidity |
