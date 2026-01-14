@@ -54,7 +54,7 @@ Currently, I am a Security Auditor and Engineer, Previously I worked as a Securi
 | **Clarity**     | 
 | **Rust**     | 
 | **Vyper**     | 
-| **Go**     | 
+
 
 ## Competitive Audit's
 
