@@ -60,7 +60,7 @@ Currently, I am a Senior Security Auditor and Engineer at Thesis Inc, Previously
 
 | Platform | Profile      | Rank |
 | ------- | ------------- | -----|
-|  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh)  |  89  |  
+|  CodeArena | [Jmukesh]([https://code4rena.com/@JMukesh](https://code4rena.com/leaderboard?timeframe=2021))  |  13 Rank (2021)  |  
 
 
 
