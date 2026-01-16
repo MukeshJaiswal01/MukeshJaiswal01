@@ -8,6 +8,7 @@ Currently, I am a Senior Security Auditor and Engineer at Thesis Inc, Previously
 
 | Client	| Project Name	| Date	| Report	| Type      |Language |
 |-----------|---------------|-------|-----------|-----------|---------|
+|[tLabs]()	| Beta Signer Allowlist & Bridge Fee Rebates	|September 2025|	Private	| Smart Contracts | Solidity |
 | [Midl Execution Layer](https://midl.xyz/)	|Midl Runes Indexation	|September 2025	|[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/250917_Defense_by_Thesis-Midl_Runes_Indexation_Final_Security_Audit_Report.pdf) |	BTC Indexer  | Rust |
 | [Mezo](https://www.mezo.org/)	|MezoBridge Smart Contract	|September 2025	|[:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/250910_Defense_by_Thesis-MezoBridge_Smart_Contract_Final_Audit_Report.pdf) |	 Smart Contracts | Solidity|
 |[Templar Protocol](https://www.templarfi.org)	|Templar Smart Contracts	|April-July, 2025|	[:page_facing_up:](https://github.com/Templar-Protocol/contracts/tree/dev/audits/2025-07-01/thesis_defense)	| Smart Contracts | Rust |
