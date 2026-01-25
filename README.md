@@ -46,18 +46,17 @@ Currently, I am a Senior Security Auditor and Engineer at Thesis Inc, Previously
 
 | Expertise           | 
 | ------------------- | 
-| **Solidity Smart Contracts**    | 
-| **Clarity Smart Contracts** | 
+| Smart Contracts**    | 
 | **DeFi Protocols** | 
-| **DAOs**     | 
 | **Metamask Snaps Implementation** |
+| **Blockchain Indexers** |
+
 
 | Languages           | 
 | ------------------- | 
 | **Solidity/EVM**    |  
 | **Clarity** ( Stacks)    | 
 | **Rust** (Near)    | 
-| **Vyper**     | 
 
 
 ## Competitive Audit's
