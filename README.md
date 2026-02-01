@@ -56,7 +56,7 @@ Currently, I am a Senior Security Auditor and Engineer at Thesis Inc, Previously
 | ------------------- | 
 | **Solidity/EVM**    |  
 | **Clarity** ( Stacks)    | 
-| **Rust**    | 
+| **Rust** (Near, Substrate)   | 
 | **Go**    | 
 
 
