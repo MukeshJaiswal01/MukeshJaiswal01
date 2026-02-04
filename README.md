@@ -1,7 +1,7 @@
 # Mukesh Jaiswal
 I am a security auditor focused on smart contract and protocol security across Web3 systems. This is my public profile where I will share highlights of my work. 
 
-Currently, I am a Senior Security Auditor and Engineer at Thesis Inc, Previously I worked as a Security Auditor at Sherlock, Spearbit, and Least Authority. I am also a bug bounty hunter on platforms such as Immunefi and Code4rena, and have been recognized with a Kernel Fellowship from Gitcoin.
+Currently, I am a Senior Security Auditor and Engineer, Previously I worked as a Security Auditor at Sherlock, Spearbit, and Least Authority. I am also a bug bounty hunter on platforms such as Immunefi and Code4rena, and have been recognized with a Kernel Fellowship from Gitcoin.
 
 ## Public Audit Reports:
 
