@@ -58,6 +58,7 @@ Currently, I am a Senior Security Auditor and Engineer, Previously worked at She
 | **Clarity** ( Stacks)    | 
 | **Rust** (Near, Substrate)   | 
 | **Go**    | 
+| **Javascript / Typescript**  | 
 
 
 ## Competitive Audit's
