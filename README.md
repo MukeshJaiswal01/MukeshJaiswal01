@@ -18,6 +18,7 @@ This Profile showcases selected security assessments and audit engagements.
 |  **Go** | 
 | **Solidity/EVM** | 
 |  **Clarity**  | 
+|  **Bitcoin Script**  | 
 | **Javascript / Typescript**  | 
 
 
