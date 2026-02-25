@@ -12,6 +12,14 @@ This Profile showcases selected security assessments and audit engagements.
 - Execution Environment Assumption Analysis (EVM, WASM, Rust-based systems)  
 - Bitcoin-Adjacent Infrastructure & Indexing Security
 
+| Technical Stack         | 
+| ------------------- | 
+| **Rust**    |  
+|  **Go** | 
+| **Solidity/EVM** | 
+|  **Clarity**  | 
+| **Javascript / Typescript**  | 
+
 
 
 ## Competitive Audits
@@ -31,12 +39,12 @@ This Profile showcases selected security assessments and audit engagements.
 |[tLabs](https://threshold.network) | WalletRegistry & EcdsaDkg | October-November 2025 | Private |
 |[tLabs](https://threshold.network) | Beta Signer Allowlist & Bridge Fee Rebates | September 2025 | Private |
 | [Midl Execution Layer](https://midl.xyz/) | Midl Runes Indexation | September 2025 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/250917_Defense_by_Thesis-Midl_Runes_Indexation_Final_Security_Audit_Report.pdf) |
-| [Mezo](https://www.mezo.org/) | MezoBridge Smart Contract | September 2025 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/250910_Defense_by_Thesis-MezoBridge_Smart_Contract_Final_Audit_Report.pdf) |
+| [Mezo](https://www.mezo.org/) | MezoBridge | September 2025 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/250910_Defense_by_Thesis-MezoBridge_Smart_Contract_Final_Audit_Report.pdf) |
 |[Templar Protocol](https://www.templarfi.org) | Templar Smart Contracts | April-July, 2025 | [:page_facing_up:](https://github.com/Templar-Protocol/contracts/tree/dev/audits/2025-07-01/thesis_defense) |
-|[NEAR Satoshi Protocol](https://www.ref.finance/) | NEAR Satoshi Protocol Smart Contracts | November 2024 | Private |
+|[NEAR Satoshi Protocol](https://www.ref.finance/) | NEAR Satoshi Bridge | November 2024 | Private |
 |[Velar Labs](https://www.velar.co/) | Vyper Smart Contracts | June 2024 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240717_Thesis_Defense-Velar_Vyper_Smart_Contracts_Security_Audit_Report.pdf) |
 |[Velar Labs](https://www.velar.co/) | Clarity Smart Contracts | May 2024 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240711_Thesis_Defense-Velar_Clarity_Smart_Contracts_Security_Audit_Report.pdf) |
-|[Diva Staking](https://divastaking.com/) | Diva Smart Contracts | April-May, 2024 | Private |
+|[Diva Staking](https://divastaking.com/) | Diva Staking| April-May, 2024 | Private |
 |[Zest Protocol](https://www.zestprotocol.com/) | Zest Protocol Smart Contracts | April-May, 2024 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240509_Thesis_Defense-Zest_Protocol_Smart_Contracts_Security_Audit_Report.pdf) |
 |[Threshold Network](https://threshold.network/) | tBTC Base Smart Contracts | March 2024 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240411_Thesis_Defense-Threshold_tBTC_Base_Smart_Contracts_Security_Audit_Report.pdf) |
 |[Hermetica](https://app.hermetica.fi/earn) | Hermetica Smart Contracts | March 2024 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/240405_Thesis_Defense-Hermetica_Labs_Hermetica_Smart_Contracts_Security_Audit_Report.pdf) |
@@ -48,7 +56,7 @@ This Profile showcases selected security assessments and audit engagements.
 |[Keep Network](https://keep.network/) | Solana smart contracts | September 2023 | [:page_facing_up:](https://leastauthority.com/wp-content/uploads/2023/08/Thesis_Keep_Network_Solana_Smart_Contracts_Final_Audit_Report_Least_Authority.pdf) |
 |[Generative Labs](https://www.generativelabs.co/) | Web3MQ MetaMask Snap Implementation | September 2023 | [:page_facing_up:](https://leastauthority.com/wp-content/uploads/2023/09/Generative_Labs_Web3MQ_Snap_Final_Audit_Report_Least_Authority.pdf) |
 |[Golem Foundation](https://golem.foundation/projects) | Octant smart contracts | July 2023 | [:page_facing_up:](https://leastauthority.com/wp-content/uploads/2023/07/Golem_Foundation_Octant_Smart_Contracts_3rd_Review_Final_Audit_Report.pdf) |
-|[Ava Labs](https://avalabs.org) | Teleporter Smart Contracts | July 2023 | [:page_facing_up:](https://github.com/ava-labs/teleporter/blob/main/audits/historical/Bridge%20Smart%20Contracts%20Audit%20Report%20(July%207th%202023)%20-%20Least%20Authority%20.pdf) |
+|[Ava Labs](https://avalabs.org) | Teleporter Bridge| July 2023 | [:page_facing_up:](https://github.com/ava-labs/teleporter/blob/main/audits/historical/Bridge%20Smart%20Contracts%20Audit%20Report%20(July%207th%202023)%20-%20Least%20Authority%20.pdf) |
 |[Zest Protocol](https://www.zestprotocol.com/) | Zest Protocol smart contracts | March 2023 | [:page_facing_up:](https://leastauthority.com/static/publications/230316_Zest%20Protocol_Trust%20Machines_Updated_Final_Security_Audit_Report_march_2023.pdf) |
 |[Data Lake](https://data-lake.co/) | Token Vesting smart contracts | December 2022 | [:page_facing_up:](https://leastauthority.com/static/publications/LeastAuthority_Data%20Lake%20Token_Vesting_Smart_Contracts_Final_Audit_Report.pdf) |
 |[Data Lake](https://data-lake.co/) | Consent smart contracts | December 2022 | [:page_facing_up:](https://leastauthority.com/static/publications/221222_Data_Lake_Consents_Smart_Contracts_Final_Audit_Report.pdf) |
@@ -58,13 +66,7 @@ This Profile showcases selected security assessments and audit engagements.
 |[Tempus finance](https://tempus.finance/) | Tempus Smart Contracts | February 2022 | [:page_facing_up:](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.02.09%20-%20Final%20-%20Tempus%20Audit%20Report.pdf) |
 
 
-| Languages           | 
-| ------------------- | 
-| **Rust**    |  
-|  **Go** | 
-| **Solidity/EVM** | 
-|  **Clarity**  | 
-| **Javascript / Typescript**  | 
+
 
 
 
