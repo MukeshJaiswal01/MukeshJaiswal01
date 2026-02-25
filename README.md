@@ -13,14 +13,6 @@ This Profile showcases selected security assessments and audit engagements.
 - Bitcoin-Adjacent Infrastructure & Indexing Security
 
 
-| Languages           | 
-| ------------------- | 
-| **Rust**    |  
-|  **Go** | 
-| **Solidity/EVM** | 
-|  **Clarity**  | 
-| **Javascript / Typescript**  | 
-
 
 ## Competitive Audit's
 
@@ -65,6 +57,14 @@ This Profile showcases selected security assessments and audit engagements.
 |[Lyra Finance](https://lyra.finance/)|	Lyra Smart Contracts| 	June 2022	|[:page_facing_up:](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.06.27%20-%20Final%20-%20Lyra%20Audit%20Report.pdf)|	 Smart Contracts| Solidity |
 |[Lock Protocol](https://twitter.com/lockeprotocol)| Locke Smart Contracts| February 2022|[:page_facing_up:](https://cantina.xyz/portfolio/da4ec996-9e8f-4beb-8fe0-32e1c87e4ddb) |	 Smart Contracts| Solidity |
 |[Tempus finance ](https://tempus.finance/)|	Tempus Smart Contracts| February 2022	|[:page_facing_up:](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.02.09%20-%20Final%20-%20Tempus%20Audit%20Report.pdf) |	 Smart Contracts| Solidity |
+
+| Languages           | 
+| ------------------- | 
+| **Rust**    |  
+|  **Go** | 
+| **Solidity/EVM** | 
+|  **Clarity**  | 
+| **Javascript / Typescript**  | 
 
 
 
