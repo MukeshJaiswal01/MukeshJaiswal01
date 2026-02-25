@@ -12,6 +12,23 @@ This Profile showcases selected security assessments and audit engagements.
 - Execution Environment Assumption Analysis (EVM, WASM, Rust-based systems)  
 - Bitcoin-Adjacent Infrastructure & Indexing Security
 
+
+| Languages           | 
+| ------------------- | 
+| **Rust**    |  
+|  **Go** | 
+| **Solidity/EVM** | 
+|  **Clarity**  | 
+| **Javascript / Typescript**  | 
+
+
+## Competitive Audit's
+
+| Platform | Profile      | Rank |
+| ------- | ------------- | -----|
+|  CodeArena | [Jmukesh](https://code4rena.com/leaderboard?timeframe=2021)  |  13 Rank (2021)  |  
+
+
 ## Public Audit Reports:
 
 
@@ -53,20 +70,6 @@ This Profile showcases selected security assessments and audit engagements.
 
 
 
-| Languages           | 
-| ------------------- | 
-| **Rust**    |  
-|  **Go** | 
-| **Solidity/EVM** | 
-|  **Clarity**  | 
-| **Javascript / Typescript**  | 
-
-
-## Competitive Audit's
-
-| Platform | Profile      | Rank |
-| ------- | ------------- | -----|
-|  CodeArena | [Jmukesh](https://code4rena.com/leaderboard?timeframe=2021)  |  13 Rank (2021)  |  
 
 
 
