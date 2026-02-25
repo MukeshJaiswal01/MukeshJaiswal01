@@ -1,5 +1,5 @@
 # Mukesh Jaiswal
-I am a security engineer focused on production-grade blockchain infrastructure and protocol systems. My works centers on invarian design, cross-system trust analysis, and identifying critical accountin, access control and architectural vulnerabilities befor deployment.
+I am a security engineer focused on production-grade blockchain infrastructure and protocol systems. My works centers on invariant design, cross-system trust analysis, and identifying critical accounting, access control and architectural vulnerabilities before deployment.
 
 This Profile showcases selected security assessments and audit engagements.
 
