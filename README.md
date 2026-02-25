@@ -1,7 +1,7 @@
 # Mukesh Jaiswal
-I am a security auditor focused on smart contract and protocol security across Web3 systems. This is my public profile where I will share highlights of my work. 
+I am a security engineer focused on production-grade blockchain infrastructure and protocol systems. My works centers on invarian design, cross-system trust analysis, and identifying critical accountin, access control and architectural vulnerabilities befor deployment.
 
-Currently, I am a Senior Security Auditor and Engineer, Previously worked at Sherlock, Spearbit, and Least Authority. I am also a bug bounty hunter on platforms such as Immunefi and Code4rena, and have been recognized with a Kernel Fellowship from Gitcoin.
+This Profile showcases selected security assessments and audit engagements.
 
 ## Public Audit Reports:
 
