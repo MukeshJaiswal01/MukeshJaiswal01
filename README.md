@@ -6,7 +6,6 @@ This Profile showcases selected security assessments and audit engagements.
 ## Expertise 
 
 |                     |
-| ------------------- | 
 |State Transition & Accounting Invariants | 
 |Cross-Component Trust Boundary Analysis|  
 | Access Control & Privilege Escalation Modeling | 
