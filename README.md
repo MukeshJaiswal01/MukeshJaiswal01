@@ -54,10 +54,10 @@ Currently, I am a Senior Security Auditor and Engineer, Previously worked at She
 
 | Languages           | 
 | ------------------- | 
-| **Solidity/EVM**    |  
-| **Clarity** ( Stacks)    | 
-| **Rust** (Near, Substrate)   | 
-| **Go**    | 
+| **Rust**    |  
+|  **Go** | 
+| **Solidity/EVM** | 
+|  **Clarity**  | 
 | **Javascript / Typescript**  | 
 
 
