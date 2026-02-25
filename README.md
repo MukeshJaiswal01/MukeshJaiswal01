@@ -8,10 +8,12 @@ This Profile showcases selected security assessments and audit engagements.
 
 | Expertise           | 
 | ------------------- | 
-| **Smart Contracts**    | 
-| **Blockchain Bridge** | 
-| **Metamask Snaps Implementation** |
-| **Blockchain Indexers** |
+- State Transition & Accounting Invariants  
+- Cross-Component Trust Boundary Analysis  
+- Access Control & Privilege Escalation Modeling  
+- Cross-Chain Message Validation & Bridge Safety  
+- Execution Environment Assumption Analysis (EVM, WASM, Rust-based systems)  
+- Bitcoin-Adjacent Infrastructure & Indexing Security
 
 ## Public Audit Reports:
 
