@@ -4,7 +4,6 @@ I am a security engineer focused on production-grade blockchain infrastructure a
 This Profile showcases selected security assessments and audit engagements.
 
 
-## Expertise
 
 | Expertise           | 
 | ------------------- | 
