@@ -20,7 +20,7 @@ This Profile showcases selected security assessments and audit engagements.
 |  **Clarity**  | 
 |  **Bitcoin Script**  | 
 | **Javascript / Typescript**  | 
-
+|  **Python** | 
 
 
 ## Competitive Audits
