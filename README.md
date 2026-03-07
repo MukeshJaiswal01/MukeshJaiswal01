@@ -14,8 +14,7 @@ This Profile showcases selected security assessments and audit engagements.
 
 | Technical Stack         | 
 | ------------------- | 
-| **Rust**    |  
-|  **Go** | 
+| **Rust**    |   
 | **Solidity/EVM** | 
 |  **Clarity**  | 
 |  **Bitcoin Script**  | 
