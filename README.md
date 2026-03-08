@@ -12,6 +12,16 @@ This Profile showcases selected security assessments and audit engagements.
 - Execution Environment Assumption Analysis (EVM, WASM, Rust-based systems)  
 - Bitcoin-Adjacent Infrastructure & Indexing Security
 
+## Projects
+
+-  [AI Smart Contract Vulnerability Analyzer] (https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#1-ai-smart-contract-vulnerability-analyzer)
+
+   AI Smart Contract Vulnerability Analyzer is a tool designed to assist security engineers during smart contract audits by combining static analysis with generative AI reasoning. The system analyzes Solidity smart contracts and identifies potential vulnerability patterns such as reentrancy risks, unsafe external calls, privilege escalation issues, and incorrect access control logic.
+   
+- [AI Security Agent for Smart Contract Audit Automation](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#2-ai-security-agent-for-smart-contract-audit-automation)
+
+  AI Security Agent is a research project exploring how agent-based AI workflows can assist security engineers during smart contract audits and protocol security reviews
+
 | Technical Stack         | 
 | ------------------- | 
 | **Rust**    |   
