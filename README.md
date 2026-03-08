@@ -31,7 +31,7 @@ This Profile showcases selected security assessments and audit engagements.
 |  CodeArena | [Jmukesh](https://code4rena.com/leaderboard?timeframe=2021)  |  Top 13 Rank (2021)  |  
 
 <br>
-<br>
+
 
 | Technical Stack         | 
 | ------------------- | 
