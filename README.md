@@ -22,6 +22,15 @@ This Profile showcases selected security assessments and audit engagements.
 
   AI Security Agent is a research project exploring how agent-based AI workflows can assist security engineers during smart contract audits and protocol security reviews
 
+
+
+  ## Competitive Audits
+
+| Platform | Profile      | Rank |
+| ------- | ------------- | -----|
+|  CodeArena | [Jmukesh](https://code4rena.com/leaderboard?timeframe=2021)  |  13 Rank (2021)  |  
+
+
 | Technical Stack         | 
 | ------------------- | 
 | **Rust**    |   
@@ -32,11 +41,6 @@ This Profile showcases selected security assessments and audit engagements.
 |  **Python** | 
 
 
-## Competitive Audits
-
-| Platform | Profile      | Rank |
-| ------- | ------------- | -----|
-|  CodeArena | [Jmukesh](https://code4rena.com/leaderboard?timeframe=2021)  |  13 Rank (2021)  |  
 
 
 ## Public Audit Reports:
