@@ -6,7 +6,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 
 
  ## Expertise  
-
+ ---
 - State Transition & Accounting Invariants  
 - Cross-Component Trust Boundary Analysis  
 - Access Control & Privilege Escalation Modeling  
