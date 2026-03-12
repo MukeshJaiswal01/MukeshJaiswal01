@@ -30,7 +30,8 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 
 -  `AI Evm Vulnerability Analyzer` (AI-assisted audit tooling - Internal)
 
-     AI Evm Vulnerability Analyzer is a tool designed to assist security engineers during EVM audits by combining static analysis with generative AI reasoning. The system analyzes   identifies potential vulnerability patterns such as `race conditions`, `identify possible bottlenecks` that can lead to `Denial-of-Service`, Unnecessarily `large memory allocation`s, `CORS`,  `pseudo-random number generatio`n etc.
+     AI Evm Vulnerability Analyzer is a tool designed to assist security engineers during EVM audits by combining static analysis with generative AI reasoning. The system analyzes   
+     identifies potential vulnerability patterns such as `race conditions`, `identify possible bottlenecks` that can lead to `Denial-of-Service`, Unnecessarily `large memory allocation`s,      `CORS`,  `pseudo-random number generatio`n etc.
 
 
 - [Building Bitcoin with Rust](https://github.com/MukeshJaiswal01/building_bitcoin_with_rust)
