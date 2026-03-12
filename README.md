@@ -26,9 +26,9 @@ This Profile showcases selected security assessments and audit engagements.
 
   AI Security Agent is a research project exploring how agent-based AI workflows can assist security engineers during EVM audits and protocol security reviews
 
--  [AI Smart Contract Vulnerability Analyzer](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#1-ai-smart-contract-vulnerability-analyzer) (AI-assisted audit tooling)
+-  [AI Evm Vulnerability Analyzer](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#1-ai-smart-contract-vulnerability-analyzer) (AI-assisted audit tooling)
 
-   AI Smart Contract Vulnerability Analyzer is a tool designed to assist security engineers during smart contract audits by combining static analysis with generative AI reasoning. The system analyzes  Rust and Solidity smart contracts and identifies potential vulnerability patterns such as reentrancy risks, unsafe external calls, privilege escalation issues, and incorrect access control logic.
+   AI Evm Vulnerability Analyzer is a tool designed to assist security engineers during EVM audits by combining static analysis with generative AI reasoning. The system analyzes   identifies potential vulnerability patterns such as race conditions, identify possible bottlenecks that can lead to Denial-of-Service, Unnecessarily large memory allocations, CORS,  pseudo-random number generation etc.
    
 
 
