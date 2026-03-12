@@ -30,7 +30,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
      
      AI Security Agent is a research project exploring how agent-based AI workflows can assist security engineers during EVM audits and protocol security reviews
 
--  ***AI Evm Vulnerability Analyzer*** ( Internal)
+-  ***AI Evm Vulnerability Analyzer*** (Internal tooling)
      <br>
      
      AI Evm Vulnerability Analyzer is a tool designed to assist security engineers during EVM audits by combining static analysis with generative AI reasoning. The system analyzes identifies potential vulnerability patterns such as `race conditions`, `identify possible bottlenecks` that can lead to `Denial-of-Service`, Unnecessarily `large memory allocation`s,      `CORS`,  `pseudo-random number generation` etc.
