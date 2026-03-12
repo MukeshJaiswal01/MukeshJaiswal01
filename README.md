@@ -26,7 +26,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 
 -  `AI Security Agent` for EVM Audit Automation (Agent based security research assistant - Internal tooling)
 
-  AI Security Agent is a research project exploring how agent-based AI workflows can assist security engineers during EVM audits and protocol security reviews
+     AI Security Agent is a research project exploring how agent-based AI workflows can assist security engineers during EVM audits and protocol security reviews
 
 -  `AI Evm Vulnerability Analyzer` (AI-assisted audit tooling - Internal)
      
