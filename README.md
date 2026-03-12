@@ -17,9 +17,9 @@ This Profile showcases selected security assessments and audit engagements.
 
 - [AI-Guided EVM Fuzzer](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#1-ai-guided-evm-fuzzer) 
 
-AI-Guided EVM Fuzzer is a research tool designed to identify edge-case vulnerabilities in EVM execution environments by combining coverage-guided fuzzing with ml driven input generation. The system executes contracts in a local REVM environment and analyzes opcode traces, storage writes, and gas usage patterns to guide intelligent transaction generation.
+   AI-Guided EVM Fuzzer is a research tool designed to identify edge-case vulnerabilities in EVM execution environments by combining coverage-guided fuzzing with ml driven input   generation. The system executes contracts in a local REVM environment and analyzes opcode traces, storage writes, and gas usage patterns to guide intelligent transaction generation.
 
-The framework targets execution edge cases such as gas exhaustion paths, storage inconsistencies, reentrancy scenarios, delegatecall misuse, and multi-transaction state transition failures. By learning from execution traces, the model prioritizes unexplored opcode paths and complex transaction sequences to expose hidden protocol vulnerabilities.
+   The framework targets execution edge cases such as gas exhaustion paths, storage inconsistencies, reentrancy scenarios, delegatecall misuse, and multi-transaction state transition failures. By learning from execution traces, the model prioritizes unexplored opcode paths and complex transaction sequences to expose hidden protocol vulnerabilities.
 
 
 - [AI Security Agent for EVM Audit Automation](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#2-ai-security-agent-for-smart-contract-audit-automation) (Agent based security research assistant)
