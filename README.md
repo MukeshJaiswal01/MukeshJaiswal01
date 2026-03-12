@@ -1,7 +1,11 @@
 # Mukesh Jaiswal
-I am a security engineer focused on production-grade blockchain infrastructure and protocol systems. My works centers on modeling state transitions, validating cross-system invariants, and identifying critical accounting, access control and architectural failure modes before deployment.
+I am a security engineer specializing in protocol-level blockchain infrastructure and execution environments.
 
-This Profile showcases selected security assessments and audit engagements.
+My work focuses on analyzing adversarial behaviors in decentralized systems, modeling state transitions, validating cross-component invariants, and identifying architectural failure modes before deployment.
+
+I work across EVM and Rust-based environments and have experience auditing DeFi protocols, cross-chain systems, and Bitcoin-adjacent infrastructure.
+
+
 
  ## Expertise  
 
