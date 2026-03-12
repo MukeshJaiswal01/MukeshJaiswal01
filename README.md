@@ -49,7 +49,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
    - Block and mempool propagation
    - Protocol-level security considerations
 
-   By building these components from scratch in Rust, the project provides insight into how decentralized systems maintain consensus, validate state transitions, and ensure network security.
+    By building these components from scratch in Rust, the project provides insight into how decentralized systems maintain consensus, validate state transitions, and ensure network security.
    
 
 
