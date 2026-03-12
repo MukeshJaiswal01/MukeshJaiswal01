@@ -31,6 +31,25 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 -  [AI Evm Vulnerability Analyzer](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#1-ai-smart-contract-vulnerability-analyzer) (AI-assisted audit tooling)
 
    AI Evm Vulnerability Analyzer is a tool designed to assist security engineers during EVM audits by combining static analysis with generative AI reasoning. The system analyzes   identifies potential vulnerability patterns such as `race conditions`, `identify possible bottlenecks` that can lead to `Denial-of-Service`, Unnecessarily `large memory allocation`s, `CORS`,  `pseudo-random number generatio`n etc.
+
+
+- Building Bitcoin with Rust
+
+  This project explores the implementation of core Bitcoin protocol components using Rust, including a simplified miner, wallet, and node.
+
+   The goal of this repository is to understand how Bitcoin works at a protocol level by implementing key building blocks such as transaction validation, block construction, mining logic, and peer-to-peer networking.
+
+   The project focuses on:
+
+   - Bitcoin transaction structure and validation
+   - Block creation and proof-of-work mining
+   - Wallet implementation and key management
+   - UTXO model and transaction accounting
+   - Peer-to-peer node communication
+   - Block and mempool propagation
+   - Protocol-level security considerations
+
+   By building these components from scratch in Rust, the project provides insight into how decentralized systems maintain consensus, validate state transitions, and ensure network security.
    
 
 
