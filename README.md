@@ -17,7 +17,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 ## Projects
 
 
-- [AI-Guided EVM Fuzzer](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#1-ai-guided-evm-fuzzer) (Internal)
+- [AI-Guided EVM Fuzzer](https://github.com/MukeshJaiswal01/AI-Security-Projects/blob/main/ai_security_projects_readme.md#1-ai-guided-evm-fuzzer) ( Internal )
 
    AI-Guided EVM Fuzzer is a research tool designed to identify edge-case vulnerabilities in EVM execution environments by combining coverage-guided fuzzing with ml driven input   generation. The system executes contracts in a local REVM environment and analyzes `opcode traces`, `storage writes`, and `gas usage` patterns to guide intelligent transaction generation.
 
