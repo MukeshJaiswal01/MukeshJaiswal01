@@ -58,11 +58,14 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 
 
 
-  ## Competitive Audits
+  ## Competitive Audits & Immunefi
 
 | Platform | Profile      | Rank |
 | ------- | ------------- | -----|
 |  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh )  |  Top 13 Rank (2021)  |  
+
+ 
+
 
 
  ## Tech Stack
