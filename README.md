@@ -74,7 +74,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
  ## Tech Stack
 | Programmming Language         | 
 | ------------------- | 
-| **Rust**    |   
+| **Rust** |   
 | **Solidity/EVM** | 
 |  **Clarity**  | 
 | **Cairo**    | 
