@@ -64,12 +64,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 | ------- | ------------- | -----|
 |  CodeArena | [Jmukesh](https://code4rena.com/@JMukesh )  |  Top 13 Rank (2021)  |  
 
-<html>
-
-<img src="https://image2url.com/r2/default/images/1773437980725-ff754c9f-fcc0-4177-ba04-73c169404a64.png" alt="image" />
-
-</html>
-
+<img src="https://image2url.com/r2/default/images/1773437980725-ff754c9f-fcc0-4177-ba04-73c169404a64.png" alt="Alt text" width="300" height="200">
 
 
 
