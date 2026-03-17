@@ -90,7 +90,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 
 | Client | Project Name | Date | Report |
 |-----------|---------------|-------|-----------|
-|[Mezo](https://mezo.org) | Mezo  | November-December 2025 | Private |
+|[Mezo](https://mezo.org) | Mezo  | November-December 2025 | [:page_facing_up:](https://github.com/Thesis-Defense/Security-Audit-Reports/blob/main/PDFs/260130_Defense_by_Thesis-Mezo_Earn_Final_Audit_Report.pdf)|
 |[tLabs](https://threshold.network) | RebateStaking & Bridge | November 2025 | Private |
 |[tLabs](https://threshold.network) | MintBurnGuard | November 2025 | Private |
 |[tLabs](https://threshold.network) | WalletRegistry & EcdsaDkg | October-November 2025 | Private |
