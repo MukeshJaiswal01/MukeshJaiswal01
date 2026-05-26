@@ -28,8 +28,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
   This project explores the implementation of core Bitcoin protocol components using Rust, including a simplified miner, wallet, and node.
    
 
-
-  ## Competitive Audits & Immunefi
+ ## Competitive Audits & Immunefi
 
 | Platform | Profile      | Rank |
 | ------- | ------------- | -----|
