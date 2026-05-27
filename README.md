@@ -37,25 +37,6 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 
 
 
- 
-
-
-
- ## Tech Stack
-| Programmming Language         | 
-| ------------------- | 
-| **Rust** |   
-| **Solidity/EVM** | 
-|  **Clarity**  | 
-| **Cairo**    | 
-| **Move**    | 
-|  **Bitcoin Script**  | 
-| **Javascript / Typescript**  | 
-|  **Python** | 
-
-
-
-
 ## Public Audit Reports:
 
 | Client | Project Name | Date | Report |
@@ -91,6 +72,20 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 |[Lyra Finance](https://lyra.finance/) | Lyra Smart Contracts | June 2022 | [:page_facing_up:](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.06.27%20-%20Final%20-%20Lyra%20Audit%20Report.pdf) |
 |[Lock Protocol](https://twitter.com/lockeprotocol) | Locke Smart Contracts | February 2022 | [:page_facing_up:](https://cantina.xyz/portfolio/da4ec996-9e8f-4beb-8fe0-32e1c87e4ddb) |
 |[Tempus finance](https://tempus.finance/) | Tempus Smart Contracts | February 2022 | [:page_facing_up:](https://github.com/sherlock-protocol/sherlock-reports/blob/main/audits/2022.02.09%20-%20Final%20-%20Tempus%20Audit%20Report.pdf) |
+
+
+
+ ## Tech Stack
+| Programmming Language         | 
+| ------------------- | 
+| **Rust** |   
+| **Solidity/EVM** | 
+|  **Clarity**  | 
+| **Cairo**    | 
+| **Move**    | 
+|  **Bitcoin Script**  | 
+| **Javascript / Typescript**  | 
+|  **Python** | 
 
 
 
