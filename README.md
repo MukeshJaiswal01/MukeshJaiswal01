@@ -37,7 +37,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 
 
 
-## Public Audit Reports:
+## Public Security Review Reports:
 
 | Client | Project Name | Date | Report |
 |-----------|---------------|-------|-----------|
