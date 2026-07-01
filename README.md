@@ -1,8 +1,5 @@
 # Mukesh Jaiswal
-I am a Blockchain security engineer specializing in protocol-level blockchain infrastructure and execution environments. My work focuses on analyzing adversarial behaviors in decentralized systems, modeling state transitions, validating cross-component invariants, and identifying architectural failure modes before deployment.
-
-I work across EVM and Rust-based environments and have experience auditing DeFi protocols, cross-chain systems, and Bitcoin-adjacent infrastructure.
-
+I am a security engineer specializing in protocol-level blockchain infrastructure and execution environments. My work focuses on analyzing adversarial behaviors in distributed systems, modeling state transitions, validating cross-component invariants, and identifying architectural failure modes before deployment.
 
 
  ## Expertise  
@@ -17,7 +14,7 @@ I work across EVM and Rust-based environments and have experience auditing DeFi 
 ## Projects
 
 
--  ***AI Assisted Evm Vulnerability Analyzer*** (Internal tooling)
+-  ***AI Assisted Vulnerability Analyzer*** (Internal tooling)
      <br>
      
      AI Evm Vulnerability Analyzer is a tool designed to assist security engineers during EVM audits by combining static analysis with generative AI reasoning. The system analyzes identifies potential vulnerability patterns such as `race conditions`, `identify possible bottlenecks` that can lead to `Denial-of-Service`, Unnecessarily `large memory allocation`s,      `CORS`,  `pseudo-random number generation` etc.
